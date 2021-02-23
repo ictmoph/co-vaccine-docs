@@ -1,7 +1,7 @@
 module.exports = {
     title: 'Co-Vaccine-Moph',
     description: 'Just playing around.',
-    base: '/co-vaccine-docs',
+    base: '/co-vaccine-docs/',
     port: '4000',
     themeConfig: {
         nav: [
