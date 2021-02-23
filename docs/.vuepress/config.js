@@ -3,12 +3,13 @@ module.exports = {
     description: 'Just playing around.',
     base: '/co-vaccine-docs/',
     port: '4000',
+    sorter: true,
     themeConfig: {
         nav: [
             { text: 'คู่มือผู้ใช้งาน', link: '/user/login' },
             { text: 'ดาวน์โหลด', link: '/download/' },
-            { text: 'foo', link: '/foo/one' },
-            { text: 'bar', link: '/bar/one' },
+            // { text: 'foo', link: '/foo/one' },
+            // { text: 'bar', link: '/bar/one' },
         ],
         sidebar: [
             {
@@ -22,16 +23,16 @@ module.exports = {
                 ]
             },
             '/download/',
-            {
-                title: 'foo',
-                collapsable: false,
-                children: ['/foo/one']
-            },
-            {
-                title: 'bar',
-                collapsable: false,
-                children: ['/bar/one']
-            },
+            // {
+            //     title: 'foo',
+            //     collapsable: false,
+            //     children: ['/foo/one']
+            // },
+            // {
+            //     title: 'bar',
+            //     collapsable: false,
+            //     children: ['/bar/one']
+            // },
         ]
     }
 }
