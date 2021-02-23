@@ -1,7 +1,7 @@
 module.exports = {
     title: 'Hello VuePress',
     description: 'Just playing around.',
-    base: '/vuepress-starter',
+    base: '/co-vaccine-docs',
     port: '4000',
     themeConfig: {
         nav: [
