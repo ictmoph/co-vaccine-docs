@@ -2,6 +2,7 @@ module.exports = {
     title: 'Co-Vaccine-Moph',
     description: 'Just playing around.',
     base: '/co-vaccine-docs/',
+    dest: "gh-pages",
     port: '4000',
     themeConfig: {
         nav: [
