@@ -22,6 +22,14 @@ module.exports = {
                     '/user/working'
                 ]
             },
+            {
+                title: 'การติดตั้งเครื่องอ่านบัตรประจำตัวประชาชนแบบ Smartcard',
+                collapsable: false,
+                children: [
+                    '/smartcard/install',
+                    '/smartcard/troubleshooting'
+                ]
+            },
             '/download/',
             // {
             //     title: 'foo',
