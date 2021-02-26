@@ -14,7 +14,7 @@ module.exports = {
         sidebar: [
             {
                 title: 'คู่มือผู้ใช้งาน',
-                collapsable: false,
+                collapsable: true,
                 children: [
                     '/user/login',
                     '/user/user-menu',
@@ -28,12 +28,13 @@ module.exports = {
             '/download/',
             {
                 title: 'การติดตั้งเครื่องอ่านบัตรประจำตัวประชาชนแบบ Smartcard',
-                collapsable: false,
+                collapsable: true,
                 children: [
                     '/smartcard/install',
                     '/smartcard/troubleshooting'
                 ]
             },
+            '/request_permission/',
             // {
             //     title: 'foo',
             //     collapsable: false,
