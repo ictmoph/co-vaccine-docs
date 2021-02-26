@@ -18,10 +18,14 @@ module.exports = {
                 children: [
                     '/user/login',
                     '/user/user-menu',
+                    'user/admin-hosp-menu',
+                    'user/admin-ssj-menu',
                     '/user/prepare-work',
                     '/user/working'
                 ]
             },
+            '/contact/',
+            '/download/',
             {
                 title: 'การติดตั้งเครื่องอ่านบัตรประจำตัวประชาชนแบบ Smartcard',
                 collapsable: false,
@@ -30,7 +34,6 @@ module.exports = {
                     '/smartcard/troubleshooting'
                 ]
             },
-            '/download/',
             // {
             //     title: 'foo',
             //     collapsable: false,
