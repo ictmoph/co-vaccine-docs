@@ -3,7 +3,7 @@ title: การขอใช้สิทธิ์ admin
 ---
 
 # การขอใช้สิทธิ์ admin
-Link สำหรับเทสระบบ  : [`http://203.157.102.226:8080`](http://203.157.102.226:8080) 
+Link สำหรับเทสระบบ  : [`https://co-vaccine.moph.go.th:8443/`](https://co-vaccine.moph.go.th:8443/) 
 
 Link สำหรับใช้งานจริง : [`https://co-vaccine.moph.go.th`](https://co-vaccine.moph.go.th)
 
