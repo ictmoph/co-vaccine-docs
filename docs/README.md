@@ -1,6 +1,6 @@
 ## คู่มือการใช้งาน Co-Vaccine
 
-1. [ภาพรวมขั้นตอนการให้บริการ](https://moph.go.th/document/co-vaccine_24022021-B.pdf)
+1. [ภาพรวมขั้นตอนการให้บริการ](./img/co-vaccine_03112021-B.pdf)
 1. [วีดีโอสอนการใช้งาน](../video/index.md)
 1. [คู่มือการใช้งาน](../user/login.md)
 1. [ช่องทางติดต่อสื่อสาร](../user/login.md)
