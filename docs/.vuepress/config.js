@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'Co-Vaccine-Moph V.0.1.4 Update 11/03/2021',
+    title: 'Co-Vaccine-Moph V.0.1.5 Update 15/03/2021',
     description: '',
     base: '/co-vaccine-docs/',
     port: '4000',
@@ -25,6 +25,7 @@ module.exports = {
                 ]
             },
             '/video/',
+            '/Q&A/',
             '/contact/',
             '/download/',
             {
